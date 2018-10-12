@@ -34,4 +34,5 @@ serve para restaurar um determinado banco de dados que tena sido feito um backup
 -u <user> : nome do usuário
 -p <password> : senha do BD
 <pasta> : pasta onde esta o arquivo a ser resaturado  <file>.bson
-
+# mongo <host>/<database> -u <user> -p <password>
+serve para conectar a um banco de dados que estiver online do domngodb
